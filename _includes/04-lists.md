@@ -1,0 +1,4 @@
+* Places
+* Foods
+  *  🍔
+  *  🥪
